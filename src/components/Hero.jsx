@@ -220,7 +220,7 @@ function Hero() {
             <div className="hero__image-wrapper">
               <div className="hero__image-glow"></div>
               <img 
-                src="/Profile_Pic.png" 
+                src="./Profile_Pic.png" 
                 alt="Srinivasarao Cherukupalli" 
                 className="hero__image-graphic"
               />

@@ -79,7 +79,7 @@ function About() {
               Seeking an Associate AI Engineer role to contribute to innovative AI and Python projects in a dynamic environment.
             </p>
             <div className="about__cta" style={{ marginTop: '2rem' }}>
-              <a href="/Srinivas_AI_Engineer.pdf" download className="btn-primary" style={{ display: 'inline-block', textDecoration: 'none' }}>
+              <a href="./Srinivas_AI_Engineer.pdf" download className="btn-primary" style={{ display: 'inline-block', textDecoration: 'none' }}>
                 <span>Download Resume</span>
               </a>
             </div>

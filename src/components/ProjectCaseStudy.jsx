@@ -50,7 +50,7 @@ const projectData = {
       }
     ],
     tools: ['Python', 'FastAPI', 'Pipecat', 'WebSockets', 'ASR & TTS', 'LLMs', 'Docker'],
-    image: '/ai_voice_agent.png'
+    image: './ai_voice_agent.png'
   },
   'local-rag': {
     title: 'Enterprise Local RAG Pipeline',
@@ -100,7 +100,7 @@ const projectData = {
       }
     ],
     tools: ['Python', 'FastAPI', 'LLMs & Local Models', 'Ollama', 'Vector Databases', 'RAG Concepts', 'OpenCV', 'Docker'],
-    image: '/local_rag.png'
+    image: './local_rag.png'
   },
   'ocr-engine': {
     title: 'Intelligent Document OCR Extraction Engine',
@@ -150,7 +150,7 @@ const projectData = {
       }
     ],
     tools: ['Python', 'FastAPI', 'PaddleOCR', 'Doctr OCR', 'Redis', 'RegEx', 'PostgreSQL & MySQL', 'OpenCV', 'Docker'],
-    image: '/ocr_engine.png'
+    image: './ocr_engine.png'
   }
 }
 
